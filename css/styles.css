@@ -41,8 +41,8 @@ body{
 .attribution{
     color: rgb(75, 2, 2);
     font-size: 14px;
-    display: flex;
-
-.attribution a {
+    text-align: center;
+}
+.attribution a{
     color: rgb(75, 2, 2);
 }
